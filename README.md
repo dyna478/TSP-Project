@@ -2,6 +2,8 @@ This project provides a comprehensive, object-oriented Python toolkit for solvin
 
 The TSPSolver class is a self-contained framework designed for experimentation, benchmarking, and visualization, making it an excellent tool for both academic and practical exploration of TSP solutions.
 
+![Image](https://github.com/user-attachments/assets/706053a8-113a-4bc0-ac0f-51d5aac188ff)
+
 Core Features
 
 This solver is not a single pipeline but a collection of powerful, independent, and combinable TSP algorithms:
